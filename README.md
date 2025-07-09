@@ -1,2 +1,1 @@
-# GPUTestnetBridgeCoreX
-Advanced GPUTestnetBridgeCoreX project
+.
